@@ -1,2 +1,4 @@
-# Raichu.ai
-Data Analyst Ai Chatbot
+- 💻 Passionate developer building projects with **Java** and **Python**.
+- 🚀 Focused on creating simple, efficient, and practical everyday tools.
+- 🌱 Currently expanding my skills in data structures, backend logic, and clean code.
+- 📂 Check out my repositories below to see what I've been working on!
